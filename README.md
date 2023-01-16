@@ -1,1 +1,1 @@
-# Deployment-of-ML-models-in-Heroku-using-FLASK
+# Deployment-of-ML-model-in-Heroku-using-FLASK
